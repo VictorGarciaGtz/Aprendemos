@@ -94,6 +94,9 @@ div[inicio]{
 }
 
 @media (max-width: 500px) {
+    html{
+        height: auto;
+    }
     [inicio] [contenido] [desarrolloWeb] [titulo] {
         font-size: 1.5em;
     }
